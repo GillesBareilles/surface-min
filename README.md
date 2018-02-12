@@ -2,7 +2,7 @@
 
 When pulling a wire from soap water, a thin soapy surface creates. Its shape results from the equilibrium between superficial tension and gravity. This project aims at computing such a surface given a description of the wire(s).
 
-From a mathematical standpoint, given an open set ![equation](http://www.sciweavers.org/tex2img.php?eq=%5COmega%20%5Csubset%20%5Cmathbb%7BR%7D%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) of boundary $\Gamma$, and a function $g : \Gamma \rightarrow \mathbb{R}$, the problem consists in finding a solution $u$ s.t. :
+From a mathematical standpoint, given an open set ![equation](https://latex.codecogs.com/gif.latex?%5COmega%20%5Csubset%20%5Cmathbb%7BR%7D%5E2) of boundary $\Gamma$, and a function $g : \Gamma \rightarrow \mathbb{R}$, the problem consists in finding a solution $u$ s.t. :
 
 
 Classes implémentées et fonctionnalités :
